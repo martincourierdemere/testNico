@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>https://powell365.visualstudio.com/Powell365-Front/_testExecution/Index</description>
+   <name>1162 - Post - Delete (no replies)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b282070a-0f50-4021-ac99-d611348b35a8</testCaseGuid>
+</TestCaseEntity>
